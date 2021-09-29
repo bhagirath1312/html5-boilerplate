@@ -20,7 +20,7 @@ way that you want.
 
 ## Quick start
 
-Choose one of the following options:
+Choose one of the following options:-
 
 * Download the latest stable release from
   [html5boilerplate.com](https://html5boilerplate.com/). This zip file is a
@@ -65,7 +65,7 @@ Choose one of the following options:
 * A finely-tuned starter template. Reap the benefits of 10 years of analysis,
   research and experimentation by over 200 contributors.
 * Designed with progressive enhancement in mind.
-* Includes:
+* Includes:-
   * [`Normalize.css`](https://necolas.github.io/normalize.css/)
     for CSS normalizations and common bug fixes
   * A custom build of [`Modernizr`](https://modernizr.com/) for feature
